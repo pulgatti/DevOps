@@ -39,8 +39,7 @@ JC = javac
 #
 
 CLASSES = \
-	Decorator.java 
-
+	Decorator.java
 
 #
 # the default make target entry

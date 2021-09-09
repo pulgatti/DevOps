@@ -36,7 +36,6 @@ abstract class ColumDecorator implements Report
 }
 
 class SupportLinkDecorator extends ColumDecorator{
- 
     public SupportLinkDecorator(Report report) {
         super(report);
     }
